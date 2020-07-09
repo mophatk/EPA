@@ -1,9 +1,9 @@
 # Bank marketing dataset
 As technology is moving to the AI age, adoption of intelligent marketing strategies for companies and businesses is eminent. Online marketing is more productive when its targeted thus the need for machine learning. This is a machine learning algorithm that uses a banking dataset to train a model to determine if a particular target will make use of banking services.
 
-##__Description
-###Features
-#####Input Variables
+## __Description
+### Features
+##### Input Variables
 * __age__: (numeric)
 * __job__: type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self employed','services','student','technician','unemployed','unknown')
 * __marital__: marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
@@ -21,11 +21,11 @@ As technology is moving to the AI age, adoption of intelligent marketing strateg
 * __previous__: number of contacts performed before this campaign and for this client (numeric)
 * __poutcome__: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 
-#####__Output variable (desired target):
+##### __Output variable (desired target):
  - __y__ - has the client subscribed a term deposit? (binary: 'yes','no')
 
-##__Structuring The Data__
+## __Structuring The Data__
 `df.info`
-##__Data Analysis
+## __Data Analysis
 
-##__Tests
+## __Tests
